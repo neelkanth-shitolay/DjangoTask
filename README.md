@@ -19,10 +19,10 @@ Question 2
 - **Q objects** allow for complex queries using the `&` (AND), `|` (OR), and `~` (NOT) operators.
 - They are useful for constructing queries that involve conditional logic, enabling more flexible and powerful queries.
 
-Question 3
-Step 1: Launch an EC2 instance by choosing an appropriate instance
-Step 2: Connect to the EC2 instance by using SSH
-Step 3: Install the required software  
-Step 4: Set up the Django Application
-Step 5: Configure Gunicorn 
-Step 6: Configure Nginx
+Question 3  
+Step 1: Launch an EC2 instance by choosing an appropriate instance  
+Step 2: Connect to the EC2 instance by using SSH  
+Step 3: Install the required software      
+Step 4: Set up the Django Application  
+Step 5: Configure Gunicorn   
+Step 6: Configure Nginx  
